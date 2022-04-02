@@ -1,0 +1,15 @@
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\ref\Builder.dll
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\ref\Builder.dll
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\EdenP\Desktop\Projects\DesignPattern\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
